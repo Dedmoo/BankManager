@@ -106,11 +106,3 @@ Small doc touch-ups land through pull requests.
 
 
 
-<!-- doc sync -->
-
-
-<!-- pair docs pass -->
-
-
-<!-- fork pair note -->
-
